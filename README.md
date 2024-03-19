@@ -3,10 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://twitter.com/gouravvyadav?t=qshvvzwxys53c6glnxnqoa&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/gouravvyadav?t=qshvvzwxys53c6glnxnqoa&s=09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gouravyadav2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gouravyadav2" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/gouravyadav999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gouravyadav999" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/gouravyadav684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/gouravyadav684" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/gourav4534/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gourav4534/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
