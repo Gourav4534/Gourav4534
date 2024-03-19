@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">"Passionate about data science and machine learning, eager to unravel mysteries and create impact through data-driven insights."</p>
+<p align="left">"Passionate About Data Science & Machine Learning, Eager To Unravel Mysteries And Create Impact Through Data-Driven Insights."</p>
 
 ###
 
