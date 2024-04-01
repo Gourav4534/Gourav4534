@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">"Passionate About Data Science & Machine Learning, Eager To Unravel Mysteries And Create Impact Through Data-Driven Insights."</p>
+<p align="left"> Welcome to my GitHub profile! I'm Gourav Yadav, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science & Machine Learning. </p>
 
 ###
 
