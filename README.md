@@ -4,6 +4,14 @@
 
 <p align="left"> Welcome to my GitHub profile! I'm Gourav Yadav, A Data Science Enthusiast With A Passion For Leveraging Data To Drive Insights And Solve Complex Problems. I am Constantly Expanding My Skills And Knowledge In The Field Of Data Science & Machine Learning. </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gourav4534&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+### 
+
+<p align="left">Technologies & Frameworks I Have Worked with:</p>
+
 ###
 
 <div align="left">
@@ -47,5 +55,3 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerRank Profile" height="30" width="40" />
   </a>
 </div>
-
-###
