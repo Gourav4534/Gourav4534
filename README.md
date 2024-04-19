@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 I'm Gourav  Yadav</h1>
+![Header](github-header-image%20(2).png)
 
 ###
 
-<p align="left"> Welcome to my GitHub profile! I'm Gourav Yadav, A Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science & Machine Learning. </p>
+<p align="left"> Welcome to my GitHub profile! I'm Gourav Yadav, A Data Science Enthusiast With A Passion For Leveraging Data To Drive Insights And Solve Complex Problems. I am Constantly Expanding My Skills And Knowledge In The Field Of Data Science & Machine Learning. </p>
 
 ###
 
