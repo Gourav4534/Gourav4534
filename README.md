@@ -48,6 +48,9 @@
   <a href="https://twitter.com/gouravvyadav?t=qshvvzwxys53c6glnxnqoa&s=09" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
   </a>
+  <a href="https://instagram.com/gourav_vyadav" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gourav_vyadav" height="30" width="40" />
+  </a>
   <a href="https://www.linkedin.com/in/gouravyadav2" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
