@@ -60,6 +60,9 @@
   <a href="https://www.hackerrank.com/profile/gouravyadav684" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="gouravyadav684" height="40" width="40" style="vertical-align: middle;" />
   </a>
+  <a href="https://kaggle.com/gouravyadav999" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gouravyadav999" height="40" width="40" />
+  </a>
 </div>
 
 
