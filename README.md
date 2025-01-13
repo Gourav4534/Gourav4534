@@ -66,8 +66,3 @@
 </div>
 
 
-###
-### **PortFolio :**
-
-[My Portfolio](https://gourav4534.github.io/Gourav_Portfolio_website/)
-
