@@ -44,9 +44,6 @@
 
 <div align="left">
   </a>
-  <a href="https://twitter.com/@gouravvyadav" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gouravvyadav" height="50" width="50" />
-  </a>
   <a href="https://www.linkedin.com/in/gouravyadav2" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="50" alt="LinkedIn logo" />
   </a>
