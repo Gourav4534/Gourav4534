@@ -56,6 +56,9 @@
   <a href="https://kaggle.com/gouravyadav999" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gouravyadav999" height="40" width="40" />
   </a>
+  <a href="https://x.com/gouravv_1" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" height="35" width="40" />
+  </a>
 </div>
 
 
