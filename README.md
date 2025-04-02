@@ -43,21 +43,23 @@
 ###
 
 <div align="left">
-  </a>
   <a href="https://www.linkedin.com/in/gouravyadav2" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="50" alt="LinkedIn logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="https://www.leetcode.com/gourav4534" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gourav4534" height="50" width="50" style="vertical-align: middle;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerrank.com/profile/gouravyadav684" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="gouravyadav684" height="50" width="50" style="vertical-align: middle;" />
+  <a href="https://www.hackerrank.com/gouravyadav684" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" height="40" alt="HackerRank" />
   </a>
-  <a href="https://kaggle.com/gouravyadav999" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gouravyadav999" height="40" width="40" />
+  <a href="https://www.kaggle.com/gouravyadav999" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="40" height="40" alt="Kaggle" />
   </a>
   <a href="https://x.com/gouravv_1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" height="35" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="40" height="40" alt="X" />
+  </a>
+  <a href="https://medium.com/@gouravyadav684" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="40" height="40" alt="Medium" />
   </a>
 </div>
 
