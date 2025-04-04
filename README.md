@@ -58,9 +58,6 @@
   <a href="https://x.com/gourav_v1" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="40" height="40" alt="X" />
   </a>
-  <a href="https://medium.com/@gouravyadav684" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="40" height="40" alt="Medium" />
-  </a>
 </div>
 
 
