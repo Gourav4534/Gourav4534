@@ -55,9 +55,6 @@
   <a href="https://www.kaggle.com/gouravyadav999" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="40" height="40" alt="Kaggle" />
   </a>
-  <a href="https://x.com/gourav_v1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="40" height="40" alt="X" />
-  </a>
 </div>
 
 
