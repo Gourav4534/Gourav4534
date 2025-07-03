@@ -60,10 +60,6 @@
   <a href="https://www.kaggle.com/gouravyadav999" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="40" height="40" alt="Kaggle" />
   </a>
-  </a>
-  <a href="https://x.com/gourav_v1" target="_blank">
-    <img src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png" width="40" height="40" alt="Twitter X" />
-  </a>
 </div>
 
 
